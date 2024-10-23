@@ -1,0 +1,3 @@
+Lucio: 8
+Martín: 7
+Barber: 9
